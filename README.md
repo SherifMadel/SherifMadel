@@ -5,7 +5,7 @@ I'm Sherif from Egypt Studying Computer Science/Business Administration At Busin
 
 Skills:  / JS / HTML5 / CSS / jQuery / larval / bootstrap / php / java / SQL / xampp /c++/
 
-- 🔭 I’m currently working on this page. 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SherifMadel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/SherifMohamedAdel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sherif.taha.28/)  
